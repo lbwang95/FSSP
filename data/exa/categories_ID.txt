@@ -1,0 +1,15 @@
+1 Restaurant
+2 Fast Food
+3 McDonald's
+4 Burger King
+5 Italian Food
+6 Shopping
+7 Gift Shop
+8 Electronics Store
+9 Bookstore
+10 Hospital
+11 Medical Center
+12 Gas Station
+13 Shell
+14 Pharmacy
+15 CVS

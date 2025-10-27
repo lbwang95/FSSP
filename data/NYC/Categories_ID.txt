@@ -1,0 +1,1054 @@
+1 Beach
+2 Cruise
+3 Harbor or Marina
+4 Boat or Ferry
+5 Fraternity House
+6 Park
+7 Playground
+8 Property Management Office
+9 Chiropractor
+10 Arts and Entertainment
+11 Dessert Shop
+12 Restaurant
+13 Ice Cream Parlor
+14 Swimming Pool
+15 Food Truck
+16 Seafood Restaurant
+17 Steakhouse
+18 Neighborhood
+19 Financial Service
+20 Legal Service
+21 Bank
+22 Apartment or Condo
+23 Yoga Studio
+24 Sandwich Spot
+25 Deli
+26 Diner
+27 Breakfast Spot
+28 Bakery
+29 Wine Bar
+30 Real Estate Agency
+31 Pizzeria
+32 Italian Restaurant
+33 Dry Cleaner
+34 Road
+35 Greek Restaurant
+36 Middle Eastern Restaurant
+37 Miscellaneous Store
+38 Medical Center
+39 Bagel Shop
+40 Tanning Salon
+41 Cosmetics Store
+42 Convenience Store
+43 Structure
+44 Residential Building
+45 College Classroom
+46 Elementary School
+47 Gym
+48 Roofer
+49 Office
+50 Painter
+51 Housing Development
+52 American Restaurant
+53 Grocery Store
+54 Gym and Studio
+55 Nail Salon
+56 Café
+57 Sports and Recreation
+58 Cycle Studio
+59 General Contractor
+60 Bicycle Store
+61 Nursing Home
+62 Cocktail Bar
+63 Bar
+64 Parking
+65 Food and Beverage Retail
+66 Stable
+67 Real Estate Service
+68 Real Estate Development and Title Company
+69 Mover
+70 Furniture and Home Store
+71 Hookah Bar
+72 Event Space
+73 Accounting and Bookkeeping Service
+74 Landscaper and Gardener
+75 Business and Professional Services
+76 Meadery
+77 Brewery
+78 Construction Supplies Store
+79 Rubber Supplier
+80 Factory
+81 Advertising Agency
+82 Tech Startup
+83 Wholesaler
+84 Automotive Repair Shop
+85 Tire Repair Shop
+86 Car Parts and Accessories
+87 Car Dealership
+88 Used Car Dealership
+89 Pharmacy
+90 ATM
+91 Car Wash and Detail
+92 Field
+93 Spanish Restaurant
+94 Convention Center
+95 Speakeasy
+96 Non-Profit Organization
+97 Library
+98 Convention
+99 Other Event
+100 Conference
+101 Hotel
+102 Spa
+103 Hotel Bar
+104 Coffee Shop
+105 Fire Station
+106 Tiki Bar
+107 Hotel Pool
+108 Beach Bar
+109 Dentist
+110 Outdoor Sculpture
+111 Parade
+112 Music Venue
+113 Other Great Outdoors
+114 Track
+115 Concert Hall
+116 Computer Repair Service
+117 Resort
+118 Club House
+119 Pool Hall
+120 Business and Strategy Consulting Office
+121 Plaza
+122 Volleyball Court
+123 Attraction
+124 Scenic Lookout
+125 Donut Shop
+126 Bookstore
+127 Bowling Alley
+128 Kosher Restaurant
+129 Pet Café
+130 Festival
+131 Night Club
+132 Pub
+133 French Restaurant
+134 Performing Arts Venue
+135 Lounge
+136 Soccer Field
+137 Conference Room
+138 Ramen Restaurant
+139 Noodle Restaurant
+140 Thai Restaurant
+141 Taco Restaurant
+142 New American Restaurant
+143 Burrito Restaurant
+144 Clothing Store
+145 Candy Store
+146 Gift Store
+147 Mobile Phone Store
+148 Shoe Store
+149 Boutique
+150 Burger Joint
+151 Retail
+152 Bubble Tea Shop
+153 Chinese Restaurant
+154 Asian Restaurant
+155 Utility Company
+156 Farmers Market
+157 Bath House
+158 Sporting Goods Retail
+159 Surf Spot
+160 Shopping Mall
+161 Japanese Restaurant
+162 Sushi Restaurant
+163 Women's Store
+164 Gourmet Store
+165 Fuel Station
+166 Credit Union
+167 Carpet and Flooring Contractor
+168 Men's Store
+169 Fast Food Restaurant
+170 Fish and Chips Shop
+171 Surf Store
+172 Salad Restaurant
+173 Board Store
+174 Mediterranean Restaurant
+175 Korean Restaurant
+176 Juice Bar
+177 Jewelry Store
+178 Hair Salon
+179 Skating Rink
+180 Cupcake Shop
+181 Government Building
+182 Polling Place
+183 Dive Bar
+184 Construction
+185 Hospital Unit
+186 Home Service
+187 Healthcare Clinic
+188 Carpet Store
+189 Dog Park
+190 Public and Social Service
+191 Print Store
+192 Smoothie Shop
+193 Department Store
+194 Mexican Restaurant
+195 Brazilian Restaurant
+196 Electronics Store
+197 Insurance Agency
+198 Corporate Amenity
+199 Church
+200 Campaign Office
+201 Notary
+202 Architecture Firm
+203 Organization
+204 Law Office
+205 Doctor's Office
+206 Employment Agency
+207 Real Estate Appraiser
+208 Pest Control Service
+209 Security and Safety
+210 Salvadoran Restaurant
+211 Caribbean Restaurant
+212 Health and Medicine
+213 Drugstore
+214 Daycare
+215 Radio Station
+216 Discount Store
+217 Shipping, Freight, and Material Transportation Service
+218 City
+219 College and University
+220 Carpenter
+221 Kitchen Remodeler
+222 Currency Exchange
+223 Pawn Shop
+224 Nutritionist
+225 Watch Store
+226 Art Gallery
+227 Fried Chicken Joint
+228 Monument
+229 Government Department
+230 Post Office
+231 Storage Facility
+232 Education
+233 High School
+234 Assisted Living Service
+235 Funeral Home
+236 Spiritual Center
+237 Repair Service
+238 Metals Supplier
+239 Photography Lab
+240 Design Studio
+241 Assisted Living
+242 City Hall
+243 Police Station
+244 Town Hall
+245 Antique Store
+246 Landmarks and Outdoors
+247 Coworking Space
+248 Mobile Company
+249 Adult Education
+250 Heating, Ventilating and Air Conditioning Contractor
+251 Plumber
+252 Home Appliance Store
+253 Waste Management Service
+254 Fashion Accessories Store
+255 Travel Agency
+256 Community Center
+257 Courthouse
+258 Business Service
+259 Sports Bar
+260 Limo Service
+261 BBQ Joint
+262 Portuguese Restaurant
+263 Vintage and Thrift Store
+264 Food Distribution Center
+265 Financial Planner
+266 Caterer
+267 Children's Clothing Store
+268 Temple
+269 Laundry Service
+270 Website Designer
+271 Charity
+272 Recycling Facility
+273 Music Store
+274 Media Agency
+275 Community College
+276 Community and Government
+277 College Academic Building
+278 Locksmith
+279 Office Supply Store
+280 Language School
+281 Liquor Store
+282 Tattoo Parlor
+283 Dance Studio
+284 Recording Studio
+285 Supermarket
+286 Theater
+287 Housing Authority
+288 Internal Medicine Doctor
+289 Rental Service
+290 River
+291 Smoke Shop
+292 Bridge
+293 Bed and Breakfast
+294 Movie Theater
+295 Business Center
+296 Professional Cleaning Service
+297 Fishing Store
+298 Shopping Plaza
+299 Laundromat
+300 Comedy Club
+301 Technology Business
+302 Electrician
+303 Vegan and Vegetarian Restaurant
+304 Vacation Rental
+305 Bus Station
+306 Tree Service
+307 Home Inspection
+308 Photographer
+309 Tutoring Service
+310 Boat Rental
+311 Interior Designer
+312 Hostel
+313 Tailor
+314 Acupuncture Clinic
+315 Light Rail Station
+316 Fruit and Vegetable Store
+317 Import and Export Service
+318 Environmental Organization
+319 Travel and Transportation
+320 Intersection
+321 Check Cashing Service
+322 Hot Dog Joint
+323 Butcher
+324 Latin American Restaurant
+325 Machine Shop
+326 Hospital
+327 Train
+328 Escape Room
+329 Credit Counseling and Bankruptcy Service
+330 Farm
+331 Chemicals and Gasses Manufacturer
+332 Meeting Room
+333 Video Store
+334 Capitol Building
+335 Gay Bar
+336 Prayer Room
+337 Lake
+338 Engineer
+339 Automotive Service
+340 Race Track
+341 Pet Supplies Store
+342 Hardware Store
+343 Fireworks Store
+344 Rental Car Location
+345 Frozen Yogurt Shop
+346 Beer Garden
+347 Party Supply Store
+348 Moving Target
+349 Military Base
+350 Betting Shop
+351 Golf Course
+352 Tea Room
+353 Food Stand
+354 Picnic Area
+355 Primary and Secondary School
+356 Pet Service
+357 Middle School
+358 Martial Arts Dojo
+359 Manufacturer
+360 Flower Store
+361 Telecommunication Service
+362 Rehabilitation Center
+363 Rail Station
+364 Tennis Court
+365 Barbershop
+366 Snack Place
+367 Bathroom Contractor
+368 College Gym
+369 Rock Club
+370 Personal Trainer
+371 Disc Golf
+372 Circus
+373 Swimming Pool Maintenance and Service
+374 Cemetery
+375 Mental Health Clinic
+376 Cardiologist
+377 Alternative Medicine Clinic
+378 Loans Agency
+379 Electrical Equipment Supplier
+380 Physical Therapy Clinic
+381 Physician
+382 Paper Supplier
+383 Packaging Supply Store
+384 Baseball Field
+385 Oncologist
+386 College Lab
+387 Industrial Equipment Supplier
+388 Health and Beauty Service
+389 Doors and Windows Contractor
+390 Plastics Supplier
+391 Garden Center
+392 Child Care Service
+393 Roof Deck
+394 Human Resources Agency
+395 Chimney Sweep
+396 Publisher
+397 Strip Club
+398 Trade School
+399 Event Service
+400 Photography Studio
+401 Entertainment Service
+402 Vineyard
+403 Winery
+404 Deck and Patio Contractor
+405 Bus Stop
+406 Ophthalmologist
+407 Transportation Service
+408 Taxi
+409 Home Health Care Service
+410 Market
+411 Entertainment Agency
+412 Private School
+413 Massage Clinic
+414 Other Healthcare Professional
+415 Garden
+416 IT Service
+417 Commercial Real Estate Developer
+418 College Auditorium
+419 Housewares Store
+420 Distillery
+421 Stationery Store
+422 Veterinarian
+423 Hiking Trail
+424 Basketball Court
+425 Skate Park
+426 Arcade
+427 Arts and Crafts Store
+428 Museum
+429 TV Station
+430 Wings Joint
+431 Stadium
+432 College Administrative Building
+433 College Communications Building
+434 College Science Building
+435 College Math Building
+436 Preschool
+437 College Arts Building
+438 College Cafeteria
+439 College Library
+440 Tunnel
+441 College Bookstore
+442 Student Center
+443 College Rec Center
+444 College Quad
+445 College Technology Building
+446 Medical School
+447 College Football Field
+448 Sorority House
+449 Bike Rental
+450 State or Provincial Park
+451 Historic and Protected Site
+452 Religious School
+453 Baseball Stadium
+454 Retirement Home
+455 Music School
+456 Psychologist
+457 Health Food Store
+458 Skin Care Clinic
+459 Puerto Rican Restaurant
+460 Town
+461 Textiles Store
+462 Recreation Center
+463 Wine Store
+464 Beer Store
+465 Management Consultant
+466 Computers and Electronics Retail
+467 Home Improvement Service
+468 Bus Line
+469 Distribution Center
+470 Automation and Control System
+471 Oral Surgeon
+472 Outlet Store
+473 Indoor Play Area
+474 Business Broker
+475 Mental Health Service
+476 Lingerie Store
+477 Indie Movie Theater
+478 Casino
+479 Nursery School
+480 Carnival
+481 Gaming Cafe
+482 Karaoke Bar
+483 Record Store
+484 Emergency Room
+485 Sake Bar
+486 Internet Cafe
+487 Pet Grooming Service
+488 Pet Sitting and Boarding Service
+489 Fair
+490 Medical Supply Store
+491 Embassy or Consulate
+492 Auditorium
+493 Summer Camp
+494 Island
+495 College History Building
+496 College Theater
+497 Arepa Restaurant
+498 Waterfall
+499 Food and Beverage Service
+500 Comfort Food Restaurant
+501 Hot Spring
+502 Agriculture and Forestry Service
+503 Equestrian Facility
+504 Medical Lab
+505 Equipment Rental Service
+506 Social Club
+507 Big Box Store
+508 Software Company
+509 Disabled Persons Service
+510 Motel
+511 Marijuana Dispensary
+512 Nurse
+513 Vape Store
+514 Psychic and Astrologer
+515 Cajun and Creole Restaurant
+516 Banking and Finance
+517 Toy Store
+518 Comic Book Store
+519 Taxi Stand
+520 Piano Bar
+521 Driving School
+522 Sports Club
+523 Campground
+524 Audiovisual Service
+525 Pediatrician
+526 General Surgeon
+527 Psychiatrist
+528 Boarding House
+529 Boxing Gym
+530 Laboratory
+531 Urgent Care Center
+532 Orthopedic Surgeon
+533 Eyecare Store
+534 Podiatrist
+535 Cultural Center
+536 Organic Grocery
+537 Military
+538 Pilates Studio
+539 Optometrist
+540 Framing Store
+541 Costume Store
+542 Wedding Hall
+543 African Restaurant
+544 Hobby Store
+545 Rest Area
+546 Water Park
+547 Weight Loss Center
+548 Family Medicine Doctor
+549 Oil Change Service
+550 Plane
+551 Plastic Surgeon
+552 Knitting Store
+553 Radiologist
+554 Electric Vehicle Charging Station
+555 Office Building
+556 Neurologist
+557 Swimwear Store
+558 Meat and Seafood Store
+559 Ski Store
+560 Animal Shelter
+561 Computer Training School
+562 Art Museum
+563 Obstetrician Gynecologist (Ob-gyn)
+564 Tree
+565 Cafe, Coffee, and Tea House
+566 Racquet Sport Club
+567 Shoe Repair Service
+568 Sculpture Garden
+569 Running Store
+570 Soup Spot
+571 Ski Resort and Area
+572 Public Art
+573 Nature Preserve
+574 Film Studio
+575 Beer Bar
+576 Lighting Store
+577 Dermatologist
+578 Gymnastics Center
+579 Warehouse
+580 Tapas Restaurant
+581 Bridal Store
+582 Kitchen Supply Store
+583 Leather Goods Store
+584 Mattress Store
+585 Fashion Retail
+586 Lebanese Restaurant
+587 South American Restaurant
+588 Upholstery Service
+589 Synagogue
+590 Addiction Treatment Center
+591 Hair Removal Service
+592 Whisky Bar
+593 Ski Lodge
+594 Zoo
+595 Fence Contractor
+596 Petroleum Supplier
+597 Bistro
+598 Hockey Stadium
+599 German Restaurant
+600 Southern Food Restaurant
+601 Senior Citizen Service
+602 Gastropub
+603 Flea Market
+604 Lighthouse
+605 Fondue Restaurant
+606 Towing Service
+607 Garage Door Supplier
+608 Football Stadium
+609 Art Studio
+610 Peruvian Restaurant
+611 Social Services Organization
+612 Cheese Store
+613 Outdoor Event Space
+614 Creperie
+615 North Indian Restaurant
+616 Vietnamese Restaurant
+617 Street Fair
+618 Art School
+619 Translation Service
+620 Photography Service
+621 Luggage Store
+622 Ticket Seller
+623 Supplement Store
+624 Newsstand
+625 Youth Organization
+626 Homeless Shelter
+627 Cafeteria
+628 Ear, Nose and Throat Doctor
+629 Irish Pub
+630 Racecourse
+631 Maternity Clinic
+632 Amusement Park
+633 Stoop Sale
+634 Stock Broker
+635 Baby Store
+636 Pedestrian Plaza
+637 Mac and Cheese Joint
+638 Indian Restaurant
+639 Tour Provider
+640 Dining and Drinking
+641 Camera Store
+642 Music Festival
+643 Hospice
+644 Culinary School
+645 Career Counselor
+646 Logging Service
+647 Collections Service
+648 Outdoor Supply Store
+649 Sailing Club
+650 Golf Store
+651 Airport
+652 Swim School
+653 Boat Launch
+654 Motorsports Store
+655 Motorcycle Dealership
+656 Video Games Store
+657 Australian Restaurant
+658 Charter Bus
+659 Public Transportation
+660 Rock Climbing Spot
+661 Batting Cages
+662 Airport Service
+663 Law School
+664 Chocolate Store
+665 Sewer Contractor
+666 Monastery
+667 Research Station
+668 Cabin
+669 Track Stadium
+670 Food Court
+671 Dim Sum Restaurant
+672 Buffet
+673 Gun Store
+674 Mountain
+675 Platform
+676 Filipino Restaurant
+677 Building and Land Surveyor
+678 Shrine
+679 Travel Lounge
+680 Tourist Information and Service
+681 Pier
+682 Inn
+683 Dive Store
+684 Public Bathroom
+685 Science Museum
+686 Research Laboratory
+687 Gun Range
+688 Mosque
+689 Fountain
+690 Israeli Restaurant
+691 Falafel Restaurant
+692 Auction House
+693 College Track
+694 Dance Hall
+695 Amphitheater
+696 Christmas Market
+697 University
+698 Sports Medicine Clinic
+699 Urologist
+700 Emergency Service
+701 Botanical Garden
+702 Ambulance Service
+703 Gastroenterologist
+704 College Soccer Field
+705 Transmissions Shop
+706 RV and Motorhome Dealership
+707 Refrigeration and Ice Supplier
+708 Colombian Restaurant
+709 Water Treatment Service
+710 Tex-Mex Restaurant
+711 Korean BBQ Restaurant
+712 Warehouse or Wholesale Store
+713 Corporate Cafeteria
+714 Dumpling Restaurant
+715 Airport Tram Station
+716 Memorial Site
+717 Trailer Park
+718 Fish Market
+719 Veterans' Organization
+720 States and Municipalities
+721 Corporate Housing Agency
+722 Tobacco Store
+723 Hindu Temple
+724 History Museum
+725 Fishing Area
+726 Go Kart Track
+727 Border Crossing
+728 Welding Service
+729 Planetarium
+730 College Basketball Court
+731 Waterfront
+732 Gym Pool
+733 Turkish Restaurant
+734 Pop-Up Store
+735 Kingdom Hall
+736 Street Art
+737 Indie Theater
+738 Motorcycle Repair Shop
+739 Bay
+740 Entertainment Event
+741 Airport Terminal
+742 Opera House
+743 Zoo Exhibit
+744 Marine Terminal
+745 RV Park
+746 Search Engine Marketing and Optimization Service
+747 Bingo Center
+748 Hunting Supply Store
+749 Gluten-Free Restaurant
+750 National Park
+751 Nudist Beach
+752 Hawaiian Restaurant
+753 Pastry Shop
+754 Cuban Restaurant
+755 Lodge
+756 Canoe and Kayak Rental
+757 Airport Lounge
+758 Castle
+759 Country Dance Club
+760 Gymnastics
+761 Paella Restaurant
+762 College Residence Hall
+763 Lodging
+764 Molecular Gastronomy Restaurant
+765 Squash Court
+766 Golf
+767 Perfume Store
+768 Picnic Shelter
+769 Climbing Gym
+770 Mini Golf Course
+771 Natural Park
+772 Airport Gate
+773 Moroccan Restaurant
+774 Hockey Field
+775 Bike Trail
+776 Body Piercing Shop
+777 Halal Restaurant
+778 Jazz and Blues Venue
+779 Rugby Pitch
+780 Classic and Antique Car Dealership
+781 Hot Air Balloon Tour Agency
+782 Labor Union
+783 Sauna
+784 Aquarium
+785 Empanada Restaurant
+786 Prison
+787 Party Center
+788 Paintball Field
+789 Industrial Estate
+790 Russian Restaurant
+791 Eastern European Restaurant
+792 Laser Tag Center
+793 Adult Store
+794 Outdoor Gym
+795 Sporting Event
+796 Souvenir Store
+797 Street Food Gathering
+798 Kebab Restaurant
+799 Karaoke Box
+800 Pie Shop
+801 Metro Station
+802 Exhibit
+803 Varenyky Restaurant
+804 Caucasian Restaurant
+805 Immigration Attorney
+806 Shawarma Restaurant
+807 Ukrainian Restaurant
+808 Basketball
+809 Armenian Restaurant
+810 Romanian Restaurant
+811 Pathologist
+812 Afghan Restaurant
+813 Doner Restaurant
+814 Herbs and Spices Store
+815 Baggage Locker
+816 Ski Chalet
+817 Ski Trail
+818 Modern European Restaurant
+819 College Tennis Court
+820 Anesthesiologist
+821 Poke Restaurant
+822 Malay Restaurant
+823 Well
+824 Salvage Yard
+825 Coffee Roaster
+826 Port
+827 Bathing Area
+828 South Indian Restaurant
+829 Hotpot Restaurant
+830 Jewish Restaurant
+831 Scientific Equipment Supplier
+832 Cantonese Restaurant
+833 Cable Car
+834 Hunan Restaurant
+835 College Stadium
+836 Used Bookstore
+837 Automotive Retail
+838 Respiratory Doctor
+839 Geological Service
+840 College Baseball Diamond
+841 Pakistani Restaurant
+842 Basketball Stadium
+843 Ethiopian Restaurant
+844 Cannabis Store
+845 Argentinian Restaurant
+846 Burmese Restaurant
+847 Scottish Restaurant
+848 Women's Health Clinic
+849 Syrian Restaurant
+850 Art Restoration Service
+851 Indonesian Restaurant
+852 Hong Kong Restaurant
+853 Shanghai Restaurant
+854 Imported Food Store
+855 Salsa Club
+856 Vehicle Inspection Station
+857 Cha Chaan Teng
+858 Law Enforcement and Public Safety
+859 Floating Market
+860 Souvlaki Shop
+861 Shabu-Shabu Restaurant
+862 Urban Park
+863 Dairy Store
+864 Leather Supplier
+865 Rafting Outfitter
+866 Fujian Restaurant
+867 Taiwanese Restaurant
+868 Szechuan Restaurant
+869 Badminton Court
+870 Soccer Club
+871 Peking Duck Restaurant
+872 Scandinavian Restaurant
+873 Waffle Shop
+874 Yemeni Restaurant
+875 Iraqi Restaurant
+876 Egyptian Restaurant
+877 Skate Store
+878 Soccer Stadium
+879 Rooftop Bar
+880 Duty-free Store
+881 Dive Spot
+882 Event
+883 Blood Bank
+884 Market Research and Consulting Service
+885 Theme Restaurant
+886 College Engineering Building
+887 Sri Lankan Restaurant
+888 Toll Plaza
+889 Renewable Energy Service
+890 Polish Restaurant
+891 County
+892 Baseball Club
+893 AIDS Resource
+894 Churrascaria
+895 Outlet Mall
+896 Dance Store
+897 Golf Driving Range
+898 Cricket Ground
+899 Village
+900 Government Lobbyist
+901 Buddhist Temple
+902 Racquet Sports
+903 College Cricket Pitch
+904 Lottery Retailer
+905 Dutch Restaurant
+906 Tram Station
+907 Soccer
+908 Rescue Service
+909 New Car Dealership
+910 Mobility Store
+911 Toll Booth
+912 Ballroom
+913 Roller Rink
+914 Gelato Shop
+915 Udon Restaurant
+916 Heliport
+917 Belgian Restaurant
+918 Running and Track
+919 Honduran Restaurant
+920 Night Market
+921 Rafting Spot
+922 Beer Festival
+923 Venezuelan Restaurant
+924 Apres Ski Bar
+925 Jiangsu Restaurant
+926 Palace
+927 Airport Food Court
+928 Baggage Claim
+929 Airport Ticket Counter
+930 Transport Hub
+931 Line
+932 International Airport
+933 Ice Bar
+934 Hockey Rink
+935 Japanese Curry Restaurant
+936 Flight School
+937 Pastelaria
+938 Dump
+939 Truck Stop
+940 Baseball
+941 Online Advertising Service
+942 Peruvian Roast Chicken Joint
+943 Ski Chairlift
+944 Austrian Restaurant
+945 Drive-in Theater
+946 Skydiving Center
+947 Bowling Green
+948 Water Sports
+949 Direct Mail and Email Marketing Service
+950 Athletic Field
+951 Hungarian Restaurant
+952 Indian Chinese Restaurant
+953 Chaat Place
+954 Dosa Place
+955 Bangladeshi Restaurant
+956 Corporate Coffee Shop
+957 Tibetan Restaurant
+958 Sausage Store
+959 Tennis
+960 Forest
+961 Soccer Store
+962 Swiss Restaurant
+963 Singaporean Restaurant
+964 Himalayan Restaurant
+965 Volcano
+966 Soba Restaurant
+967 English Restaurant
+968 VR Cafe
+969 Power Plant
+970 Persian Restaurant
+971 Cave
+972 Reservoir
+973 Children's Hospital
+974 Snow Sports
+975 Tennis Stadium
+976 Cambodian Restaurant
+977 Czech Restaurant
+978 Hill
+979 Print, TV, Radio and Outdoor Advertising Service
+980 Rugby Stadium
+981 Kosher Store
+982 Brasserie
+983 Meyhane
+984 Public Relations Firm
+985 Trade Fair
+986 Marketplace
+987 Tonkatsu Restaurant
+988 Golf Club
+989 Windmill
+990 Poutine Restaurant
+991 Hakka Restaurant
+992 Champagne Bar
+993 Canal
+994 Running Club
+995 Canal Lock
+996 Motor Scooter Dealership
+997 Mauritian Restaurant
+998 Basque Restaurant
+999 Bavarian Restaurant
+1000 Writing, Copywriting and Technical Writing Service
+1001 Dongbei Restaurant
+1002 Mongolian Restaurant
+1003 Sunglasses Store
+1004 Creative Service
+1005 Cidery
+1006 Xinjiang Restaurant
+1007 Erotic Museum
+1008 Country Club
+1009 Sikh Temple
+1010 Curling Ice
+1011 Observatory
+1012 Tennis Club
+1013 Smog Check Shop
+1014 Circus School
+1015 Satay Restaurant
+1016 Kofte Place
+1017 Confucian Temple
+1018 Indian Sweet Shop
+1019 Grilled Meat Restaurant
+1020 College Hockey Rink
+1021 Catalan Restaurant
+1022 Promotional Item Service
+1023 Acai House
+1024 Geriatric Doctor
+1025 Basketball Club
+1026 Bulgarian Restaurant
+1027 Turkish Home Cooking Restaurant
+1028 Bosnian Restaurant
+1029 Slovak Restaurant
+1030 West-Ukrainian Restaurant
+1031 Padangnese Restaurant
+1032 Javanese Restaurant
+1033 Bengali Restaurant
+1034 Modern Greek Restaurant
+1035 Northeastern Brazilian Restaurant
+1036 Hockey Club
+1037 Country
+1038 Surfing
+1039 Dam
+1040 Football Field
+1041 Hockey
+1042 Airfield
+1043 Tennis Store
+1044 LGBTQ Organization
+1045 Swimming Club
+1046 State
+1047 Baseball Store
+1048 Cemevi
+1049 Takoyaki Place
+1050 Sicilian Restaurant
+1051 Skydiving Drop Zone
+1052 Tapiocaria
+1053 Samba School
+1054 Swimming Pool Supply Store
