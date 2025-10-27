@@ -4,7 +4,7 @@ Efficiently Answering Semantic Optimal Sequenced Route Queries with Dynamic Cand
 
 ### File Description
 
-There are three folders code/, data/, model/
+There are three folders: code/, data/, model/. The folder ./model stores the paraphrase-multilingual-mpnet-base-v2 that creates embedding vectors. The folder ./code includes the code for the three algorithms, DROMC, ROSE, and FSSP. All the C++ implementations first call a Python program for the model and obtain embedding vectors from the Python program. The folder ./data stores the necessary graphs and queries for each network: NYC, BAY, COL, FLA, and exa (for the running example used in the paper). 
 
 ### Execution
 
